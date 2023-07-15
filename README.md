@@ -3,7 +3,6 @@ Perform four-gamete test and linkage disequilibrium analysis on biallelic SNP lo
 FGTLDA.R is a script to conduct four-gamete test and linkage disequilibrium analysis using SNP calling results.
 
 # Prerequisite
-R <br />
 library(data.table)
 
 # Input: 
